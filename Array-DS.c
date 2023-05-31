@@ -17,7 +17,6 @@ int main() {
     for (i;i>-1;i--)
         {
         printf("%d ", array[i]);
-    }
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    } 
     return 0;
 }
